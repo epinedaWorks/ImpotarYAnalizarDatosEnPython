@@ -1,5 +1,3 @@
-mensaje=$1
-
 echo "################# INICIO ################# "
 echo "Estado"
 echo ""
